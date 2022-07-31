@@ -6,6 +6,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+this project was inspired from the [Youtube Video Tutorial](https://www.youtube.com/watch?v=f7T48W0cwXM&t=11975s).
+
 ### `npm start`
 
 Runs the app in the development mode.\
