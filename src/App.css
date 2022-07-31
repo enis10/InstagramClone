@@ -1,0 +1,34 @@
+*{
+  margin :0 ;
+}
+.App{
+  background-color: #fafafa; 
+  width : 100 vh;
+}
+.form_input{
+  display: flex;
+  flex-direction: column;
+
+}
+
+.app_header{
+  object-fit: contain;
+  padding : 20px;
+  border-bottom : 1px solid lightgray;
+  background-color: white;
+  display: flex;
+  justify-content: space-between;
+  position: sticky;
+  top: 0;
+  z-index: 0;
+
+}
+.app_headerImage {
+
+  color: black;
+}
+
+.app_posts{
+  padding: 20px;
+}
+
